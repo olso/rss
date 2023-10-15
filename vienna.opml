@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<opml version="1.0">
+    <head>
+        <title>Vienna Subscriptions</title>
+        <dateCreated>2023-10-15 11:28:58 +0000</dateCreated>
+    </head>
+    <body>
+        <outline htmlUrl="https://www.reddit.com/user/PussyBreath007/submitted/" xmlUrl="https://www.reddit.com/user/PussyBreath007/submitted/.rss" type="rss" description="" text="submitted by PussyBreath007"/>
+        <outline htmlUrl="https://www.reddit.com/user/WBuffettJr/submitted/" xmlUrl="https://www.reddit.com/user/WBuffettJr/submitted/.rss" type="rss" description="Chief Investment Officer, Bagholder Capital, LLC" text="submitted by WBuffettJr"/>
+        <outline htmlUrl="https://www.reddit.com/user/pdwp90/submitted/" xmlUrl="https://www.reddit.com/user/pdwp90/submitted/.rss" type="rss" description="- Quiver Founder - I don't share code, financial advice, or stock picks. Message me if you want to try out the Quiver Quantitative API." text="submitted by pdwp90"/>
+        <outline htmlUrl="https://www.nasdaq.com/feed/rssoutbound" xmlUrl="https://www.nasdaq.com/feed/rssoutbound?category=IPOs" type="rss" description="This feed is responsible for generating the rss feed related to the topic IPOs" text="Ipos Feed"/>
+        <outline htmlUrl="https://overthinkingmoney.com/" xmlUrl="https://overthinkingmoney.com/feed/" type="rss" description="Personal finance, entrepreneurship, and economics" text="Overthinking Money"/>
+        <outline htmlUrl="https://platforma.slovensko.digital/latest" xmlUrl="https://platforma.slovensko.digital/latest.rss" type="rss" description="Latest topics" text="platforma.slovensko.digital - Latest topics"/>
+    </body>
+</opml>
